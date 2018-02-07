@@ -1,0 +1,13 @@
+.btnDiv {
+	text-align: center;
+	margin: 0 auto;
+	margin-top: 10%;
+}
+
+.btn-primary {
+	border-radius: 15px;
+}
+
+.btn-primary:hover {
+	color: black;
+}
